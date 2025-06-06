@@ -1,0 +1,43 @@
+body{
+background-color: #d996ae;
+background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.cl-titulo{
+    height: 150px;
+    width: 70%;
+    border-radius: 25%;
+    background-color: #d996ae;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 6%;
+}
+.love-ya-like-a-sister-regular {
+  color: #401519;
+  font-family: "Love Ya Like A Sister", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.cl-img-pata{
+    text-align: center;
+    display: block; margin: 0 auto;
+}
+#h1-1{
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+span{
+   text-align: center;  
+}
+#h1{
+    margin-top: 0%;
+    margin-bottom: 10%;
+}
+.cl-img-love{
+    text-align: center;
+    display: block; margin: 0 auto;
+    border: dotted #401519 4px;
+    border-radius: 50%;
+   
+}
